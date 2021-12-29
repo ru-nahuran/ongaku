@@ -52,7 +52,7 @@ service = build('drive', 'v3', credentials=creds)
 
 
 # 自分のBotのアクセストークンに置き換えてください
-TOKEN = settings.TOKEN
+TOKEN = settings.ODczMTk3Njk1MjIzODYxMjk5.YQ06uQ.wBSwdjHt_RQp1sQI_799sS11ivk
 
 # 接続に必要なオブジェクトを生成
 client = discord.Client()
